@@ -6,7 +6,7 @@ The most efficient way to extract job listings directly from Indeed Jobs search 
 
 ## 📖 Overview
 
-The **Indeed Jobs Scraper** is a powerful data extraction tool designed to aggregate job listings from the Indeed Jobs search engine. Since Indeed aggregates listings from Glassdoor, LinkedIn, ZipRecruiter, and direct company career pages, this actor serves as a "One-Stop Shop" for global employment data.
+The **Indeed Jobs Scraper** is a powerful data extraction tool designed to aggregate job listings from the Indeed Jobs search engine.
 
 Whether you're building a job board, analyzing labor market trends, or automating lead generation for recruitment, this actor delivers structured, clean data in real-time.
 
